@@ -28,6 +28,8 @@
 .pub/
 build/
 
+
+
 # Android related
 **/android/**/gradle-wrapper.jar
 **/android/.gradle
@@ -59,6 +61,7 @@ build/
 **/ios/Flutter/Generated.xcconfig
 **/ios/Flutter/app.flx
 **/ios/Flutter/app.zip
+**/ios/Flutter/Flutter.podspec
 **/ios/Flutter/flutter_assets/
 **/ios/ServiceDefinitions.json
 **/ios/Runner/GeneratedPluginRegistrant.*
